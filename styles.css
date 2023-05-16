@@ -933,6 +933,10 @@ video {
   background-image: url(bg.svg);
 }
 
+.bg-\[url\(https\:\/\/neluttu\.github\.io\/subscription-popup\/bg\.svg\)\] {
+  background-image: url(https://neluttu.github.io/subscription-popup/bg.svg);
+}
+
 .bg-cover {
   background-size: cover;
 }
